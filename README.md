@@ -51,7 +51,7 @@ inc_kw_list = []
 exc_kw_list = ['비', '기타']
 ```
 
-## get_PCR_Data.py
+## get_PCR.py
 FD_Handler 모듈을 사용하는 예시입니다. 상장 기업의 PCR를 계산하여 각 연도별로 저장합니다.
 
 ## get_debt_ratio.py
